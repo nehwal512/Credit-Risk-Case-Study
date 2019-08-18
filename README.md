@@ -1,4 +1,4 @@
-# Credit-Risk-Case-Study
+# Credit-Risk-Case-Study Using Logistic Regression 
 A bank sought to use performance on an in-house subprime credit product to create an updated risk model. 
 The risk model was to be combined with other factors to make future credit decisions.
 
@@ -9,3 +9,5 @@ maintained.
 
 Profit from a successful repayment of loan (Interest from the loan) = 100 dollars Loss from a default (500 dollars). 
 One bad loan takes away the profit of 5 good loans
+
+In this model I got above 85% accuracy 
